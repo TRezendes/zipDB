@@ -103,4 +103,4 @@ Other licenses and restrictions may apply to the data within the database (inclu
 
 A project of [232 Software](http://232.software)
 
-![GitHub License](https://img.shields.io/github/license/TRezendes/zipDB?color=%23D60077)
+[![Static Badge](https://img.shields.io/badge/license-PPDL-D60077)](https://opendatacommons.org/licenses/pddl/1-0/)
